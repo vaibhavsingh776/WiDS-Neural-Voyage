@@ -1,4 +1,4 @@
-#WIDS: Neural Voyage
+# WIDS: Neural Voyage
 
 For your Week-0 tasks, so that everybody can come to a similar footing, here are a few links to get started with python and numpy:
 https://cs231n.github.io/python-numpy-tutorial/
