@@ -24,6 +24,7 @@ NumPy (Numerical Python) is a fundamental library for linear algebra in Python. 
 
 - [NumPy Quickstart Tutorial](https://numpy.org/doc/stable/user/quickstart.html)
 - [NumPy W3Schools Tutorial](https://www.w3schools.com/python/numpy/default.asp)
+- [Additional NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
 - [NumPy Video Tutorial](https://youtu.be/QUT1VHiLmmI?feature=shared)
 
 ## Matplotlib
