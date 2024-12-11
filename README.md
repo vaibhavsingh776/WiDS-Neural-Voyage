@@ -1,16 +1,7 @@
 # WIDS: Neural Voyage
 
-For your Week-0 tasks, so that everybody can come to a similar footing, here are a few links to get started with python and numpy:
-https://cs231n.github.io/python-numpy-tutorial/
+Hey guys, let's begin with the project!
 
-https://www.w3schools.com/python/
+You guys need to do two assignments this week, which include basic usage of numpy, pandas and matplotlib, which you will be using a lot throughout the project. All the necessary resources have been added in the Week 1 README file. You are encouraged to explore on your own too if you get done with these.
 
-https://numpy.org/doc/stable/user/quickstart.html
-
-We will start giving the lectures to start with the tasks later. By then, try to go through the above link and get comfortable with python, jupyter and numpy.
-
-For those who prefer watching lectures you can refer to the below links however do refer to above documentations also while writing code:
-https://youtu.be/kqtD5dpn9C8
-https://youtu.be/QUT1VHiLmmI
-
-Have fun learning!!
+We will soon be adding tasks for Week 2 involving implementation of Linear and Logistic Regression techniques
